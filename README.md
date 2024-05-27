@@ -27,6 +27,9 @@ Node.js is the technology of choice for the Elearning backend. It manages course
 #### Trivia
 The Trivia backend, like the Bookshelf backend, is built with Flask. It manages trivia questions, user scores, and other game-related data.
 
+#### MOOC
+The MOOC backend is built with Django. It manages course data, user progress, and other functionalities necessary for a MOOC platform.
+
 ---
 ### 📱 Mobile Application
 #### MoveIt
