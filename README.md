@@ -36,5 +36,5 @@ MoveIt is a mobile web application built with Next.js. It's designed to promote 
 
 Made by 
     <tr>
-    <td align="center"><a href="https://github.com/Silve1ra"><b>Felipe Silveira</b></a> 🤙<br /></td>
+    <td align="center"><a href="https://github.com/sziafs"><b>Felipe Silveira</b></a> 🤙<br /></td>
     <tr>
